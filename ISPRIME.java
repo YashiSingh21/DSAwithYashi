@@ -1,5 +1,4 @@
 class basicRecursion{
-//FINDING WHETHER THE NUMBER IS PRIME OR NOT
     public static boolean isPrime(int n, int i) {
         if (n <= 1) {
             return false;

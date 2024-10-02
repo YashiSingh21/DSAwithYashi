@@ -1,5 +1,4 @@
 class basicRecursion{
-  //REVERSE THE STRING
     public static String reverseString(String str) {
         if (str.isEmpty()) {
             return str;
